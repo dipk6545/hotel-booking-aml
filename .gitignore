@@ -218,3 +218,10 @@ __marimo__/
 .streamlit/secrets.toml
 
 resolve-notebook-conflict.ps1
+
+catboost_info/
+*.cbm
+
+
+*.csv
+
